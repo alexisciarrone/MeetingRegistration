@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540104430596",
+    "project_id": "meetings-e3050",
+    "storage_bucket": "meetings-e3050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540104430596:android:0ff109e1e1977e14ea9151",
+        "android_client_info": {
+          "package_name": "lu.uni.mics.meetingregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540104430596-imuh8rop42soo9uobahqbqumlsmfvcdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJhbcldAuog3mX9T7PEI4OaN_kdMw6ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540104430596-imuh8rop42soo9uobahqbqumlsmfvcdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
